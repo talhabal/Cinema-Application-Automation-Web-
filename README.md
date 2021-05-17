@@ -5,7 +5,7 @@
 <body>
 <h2>SİNEMA OTOMASYONU</h2>
 <h3>Sinema salonu personeli ve web arayüzünden bilet almak isteyen müşteriler için hazırlanan bir sistemdir.</h3>
-<h4>* Web Arayüzü = PHP dilinde yazılmıştır. <br>
+<h4>* Web Arayüzü PHP dilinde yazılmıştır. <br>
 * Otomasyon kısmı C# ile yazılmıştır. <br>
 * MSSQL Server veritabanı kullanılmış olup her iki sistemde aynı veritabanına bağlanmıştır. <br>
 * C# ile yazarken Visual Studio Manager Windows Form Application ile çalışıldı. <br>

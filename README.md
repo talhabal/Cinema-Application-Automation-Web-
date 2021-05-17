@@ -11,7 +11,7 @@
 * C# ile yazarken Visual Studio Manager Windows Form Application ile çalışıldı. <br>
 * PHP ile yazarken Visual Studio Code programı ile çalışıldı. <br>
 * Kullanılan veri tabanını kendi SQL SERVER veri tabanınıza eklemek için şu adımları uygulayın; <br>
-1-)C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA içerisine projenin sql kalsörü içindeki mdf ve ldf dosyalarını atın. <br>
+1-)C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA içerisine projenin sql klasörü içindeki sinema_otomasyon.mdf ve sinema_otomasyon_log.ldf dosyalarını atın. <br>
 2-)SQL Server'ı açıp Database üzerinde sağ tıklayın. Attach seçeneği ile açılan ekranda Add butonuna tıklayın. <br>
 3-)sinema_otomasyon.mdf dosyasını seçip OK butonuna tıklayın. <br>
 4-)Attach Database ekranında sinema_otomasyon.mdf ve sinema_otomasyon_log.ldf dosyaları gözükecek. Alttaki OK butonuna tıklayın. <br>

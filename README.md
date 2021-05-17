@@ -10,6 +10,12 @@
 * MSSQL Server veritabanı kullanılmış olup her iki sistemde aynı veritabanına bağlanmıştır. <br>
 * C# ile yazarken Visual Studio Manager Windows Form Application ile çalışıldı. <br>
 * PHP ile yazarken Visual Studio Code programı ile çalışıldı. <br>
+* Kullanılan veri tabanını kendi SQL SERVER veri tabanınıza eklemek için şu adımları uygulayın; <br>
+1-)C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA içerisine projenin sql kalsörü içindeki mdf ve ldf dosyalarını atın. <br>
+2-)SQL Server'ı açıp Database üzerinde sağ tıklayın. Attach seçeneği ile açılan ekranda Add butonuna tıklayın. <br>
+3-)sinema_otomasyon.mdf dosyasını seçip OK butonuna tıklayın. <br>
+4-)Attach Database ekranında sinema_otomasyon.mdf ve sinema_otomasyon_log.ldf dosyaları gözükecek. Alttaki OK butonuna tıklayın. <br>
+5-)Veri tabanınıza ekleme işlemini SQL SERVER'da refresh yaparak görebilirsiniz. <br>
 </h4>
 <h5>
 	Otomasyonun form uygulamasını personel kullanabilmektedir. Öncelikle personel kullanıcı adi ve şifresi ile giriş yaması gerekiyor. Giriş yapıldığında karşısına çıkan formun üst kısmında "FİLM EKLE" , "FİLM GÜNCELLE" , "İŞLEMLER" , "AYARLAR" ve "ÇIKIŞ" butonları yer alıyor. <br>

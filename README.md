@@ -7,7 +7,7 @@
 <h3>Sinema salonu personeli ve web arayüzünden bilet almak isteyen müşteriler için hazırlanan bir sistemdir.</h3>
 <h4>* Web Arayüzü PHP dilinde yazılmıştır. <br>
 * Otomasyon kısmı C# ile yazılmıştır. <br>
-* MSSQL Server veritabanı kullanılmış olup her iki sistemde aynı veritabanına bağlanmıştır. <br>
+* MSSQL Server veritabanı kullanılmış olup her iki sistem de aynı veritabanına bağlanmıştır. <br>
 * C# ile yazarken Visual Studio Manager Windows Form Application ile çalışıldı. <br>
 * PHP ile yazarken Visual Studio Code programı ile çalışıldı. <br>
 * Kullanılan veri tabanını kendi SQL SERVER veri tabanınıza eklemek için şu adımları uygulayın; <br>
